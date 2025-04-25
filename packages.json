@@ -3,5 +3,10 @@
     "package": "tsHydro",
     "url": "https://github.com/cavios/tshydro",
     "subdir": "tsHydro"
-  }
+  },  
+    {
+      "package": "LakeGeoid",
+      "url": "https://github.com/cavios/LakeGeoid",
+      "subdir": "tsHydro"
+    }
 ]
